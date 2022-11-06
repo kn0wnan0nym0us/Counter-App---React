@@ -1,6 +1,7 @@
 # Demo Link
 
-[altschool-second-semester-exam-eight.vercel.app](altschool-second-semester-exam-eight.vercel.app).
+[altschool-second-semester-exam-eight.vercel.app](Click here to view demo).
+
 
 # Getting Started with Create React App
 
